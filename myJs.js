@@ -144,7 +144,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "http://fb.com";
+            window.location = "https://vietanh240.github.io/hocngudot/";
           },
         });
       }
